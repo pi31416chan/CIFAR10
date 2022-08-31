@@ -1,7 +1,9 @@
 # CIFAR10
 Creating different Neural Networks models to tackle this common CIFAR10 datasets.\
+Note: Datasets are unable to be uploaded due to the 25mb file size limit.\
 Convolutional Neural Networks model should perform a lot better in tackling this problem, however I will still try with MLP model and see how much I can do with it.\
 I will revisit this problem again with CNN in the future if needed.
+
 
 ## Approaches:
 1. MLP (20 x 100, ELU, he_normal, softmax, Nadam, Cat-CrossEntropy, EarlyStopping, Performance LR Schedule)
